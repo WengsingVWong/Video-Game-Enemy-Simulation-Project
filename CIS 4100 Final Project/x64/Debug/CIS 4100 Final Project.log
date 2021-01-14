@@ -1,8 +1,0 @@
-﻿  enemytype2.cpp
-C:\Users\invis\Documents\College Stuff\Fall 2020\CIS 4100\Final Exam\CIS 4100 Final Project\CIS 4100 Final Project\enemytype2.cpp(52,21): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
-  enemytype3.cpp
-C:\Users\invis\Documents\College Stuff\Fall 2020\CIS 4100\Final Exam\CIS 4100 Final Project\CIS 4100 Final Project\enemytype3.cpp(52,21): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
-  main.cpp
-C:\Users\invis\Documents\College Stuff\Fall 2020\CIS 4100\Final Exam\CIS 4100 Final Project\CIS 4100 Final Project\main.cpp(45,20): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Generating Code...
-  CIS 4100 Final Project.vcxproj -> C:\Users\invis\Documents\College Stuff\Fall 2020\CIS 4100\Final Exam\CIS 4100 Final Project\x64\Debug\CIS 4100 Final Project.exe
