@@ -28,10 +28,20 @@ To view this project, you will need to clone this repository and run it on your 
 
 ![Visual Studio 2019 Clone Repo image](/README%20images/Visual%20Studio%201.png)
 
-3. Enter the repository URL and desired path on your local machine:
+3. Enter the repository URL and desired path on your local machine (see the first image on where to find the repository URL):
 
 ![Visual Studio 2019 Repo URL and Desired Path image](/README%20images/Visual%20Studio%202.png)
 
 4. Clone the repository through Visual Studio
 
-### Option 3 - Zip File Download
+### Option 3 - ZIP File Download
+1. Download the repository as a ZIP file
+
+![Download ZIP File image](/README%20images/Download%20Zip%20Option.png)
+
+2. Unzip the file to where you want to clone the repository on your local machine
+3. Open up the project in Visual Studio 2019 (the easiest way to do this is to run the .sln file)
+
+<hr>
+
+Thank you for viewing my project!
