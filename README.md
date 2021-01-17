@@ -18,7 +18,14 @@ To view this project, you will need to clone this repository and run it on your 
 2. Navigate to where you want to clone the repository on your local machine
 3. Clone the repository using the *git clone* command (see the image above on where to find the repository URL):
 
-        $ git clone <Repository URL>
+![Git Clone image](/README%20images/Git%20Clone.png)
+
 4. Open up the project in Visual Studio 2019 (the easiest way to do this is to run the .sln file)
+
 ### Option 2 - Visual Studio 2019
+1. Open Visual Studio 2019
+2. Select "Clone a repository"
+
+![Visual Studio 2019 Clone Repo image](/README%20images/Visual%20Studio%1.png)
+
 ### Option 3 - Zip File Download
