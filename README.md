@@ -24,8 +24,14 @@ To view this project, you will need to clone this repository and run it on your 
 
 ### Option 2 - Visual Studio 2019
 1. Open Visual Studio 2019
-2. Select "Clone a repository"
+2. Select "Clone a repository":
 
-![Visual Studio 2019 Clone Repo image](/README%20images/Visual%20Studio%1.png)
+![Visual Studio 2019 Clone Repo image](/README%20images/Visual%20Studio%201.png)
+
+3. Enter the repository URL and desired path on your local machine:
+
+![Visual Studio 2019 Repo URL and Desired Path image](/README%20images/Visual%20Studio%202.png)
+
+4. Clone the repository through Visual Studio
 
 ### Option 3 - Zip File Download
