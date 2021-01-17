@@ -5,6 +5,7 @@ This was the final project for my Object-Oriented Programming II (CIS 4100) clas
 * Visual Studio 2019 (Community Edition is sufficient)
 * Git (for Option 1)
 * Repository URL (for Option 1 and 2)
+
 ![Repository URL](/README%20images/Clone%20Repo%20URL.png)
 
 ## How To Clone This Repository
