@@ -44,4 +44,4 @@ To view this project, you will need to clone this repository and run it on your 
 
 <hr>
 
-Thank you for viewing my project!
+If you're reading this, thank you for viewing my project!
