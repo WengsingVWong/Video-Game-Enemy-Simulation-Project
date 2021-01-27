@@ -14,8 +14,13 @@ I designed an abstract Enemy parent class and three EnemyType subclasses (animal
 2. Open the project in Visual Studio 2019 (the easiest way to do this is to run the .sln file)
 
 ## Example Output
+*Standard Program Intro:*
 
-(Section is under construction)
+![Standard Program Intro](README%20images/ExampleOutput1.png)
+
+*Example of Simulation:*
+
+![Example of Simulation](README%20images/ExampleOutput2.png)
 
 <hr>
 
